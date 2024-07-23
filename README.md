@@ -1,5 +1,14 @@
 **PROJECTS AND CONTRIBUTIONS**
-Email Spam Detection system using AI https://colab.research.google.com/drive/1hWuwvtuNM1cS90kjBFe5byrSt8UqtazQ?usp=sharing Fruits classification based on their image using AI https://colab.research.google.com/drive/1CQBh2DF47ReOdxTWjnfWJgAj7a1ImJKC?usp=sharing Detecting Pneumonia from chest X-ray images using AI https://colab.research.google.com/drive/19DAcjSOVOyNtzRS4HfYtzbUdPRYqCPcb?usp=sharing Training an AI model to predict salaries based on a position within a company https://colab.research.google.com/drive/18Hip2TrmQ3pp9Rx2nWLcJYKYcshWC5vR?usp=sharing Training an AI model using Deep Q-Learning to land a fictionary lunar perfectly between two flags. https://colab.research.google.com/drive/1d9kvRyPKG1Mctz7jyoSJrJjIVXF0rFuL?usp=sharing
+Email Spam Detection system using AI 
+https://colab.research.google.com/drive/1hWuwvtuNM1cS90kjBFe5byrSt8UqtazQ?usp=sharing 
+Fruits classification based on their image using AI
+https://colab.research.google.com/drive/1CQBh2DF47ReOdxTWjnfWJgAj7a1ImJKC?usp=sharing 
+Detecting Pneumonia from chest X-ray images using AI 
+https://colab.research.google.com/drive/19DAcjSOVOyNtzRS4HfYtzbUdPRYqCPcb?usp=sharing 
+Training an AI model to predict salaries based on a position within a company 
+https://colab.research.google.com/drive/18Hip2TrmQ3pp9Rx2nWLcJYKYcshWC5vR?usp=sharing 
+Training an AI model using Deep Q-Learning to land a fictionary lunar perfectly between two flags
+https://colab.research.google.com/drive/1d9kvRyPKG1Mctz7jyoSJrJjIVXF0rFuL?usp=sharing
 
 **PROFESSIONAL CERTIFICATES**
 Microsoft Corporation
