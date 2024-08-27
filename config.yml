@@ -1,7 +1,7 @@
 title: "Moe"
 description: "Showcasing my projects, contributions, and certifications."
 theme: hacker
-url: "https://yourusername.github.io/Pr0jects-Certs"  # Replace with your repository's GitHub Pages URL
+url: "https://github.com/M-code-42/Pr0jects-Certs"  # Replace with your repository's GitHub Pages URL
 baseurl: ""  # Leave empty unless the site is being served from a subdirectory
 markdown: kramdown
 paginate: 5
